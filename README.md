@@ -69,5 +69,10 @@
 <p align="center">
 <h3> 🤝🏻 &nbsp;Me encuentras en: </h3>
 <a href="https://www.linkedin.com/in/ivan-parra-2501/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://public.tableau.com/app/profile/ivan.parra7119"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a> 
+<a href="https://public.tableau.com/app/profile/ivan.parra7119"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"></a>
 </p>
+
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Ivan2125&style=for-the-badge&color=55acb7&label=VISITANTES"/>
+</div>
+
