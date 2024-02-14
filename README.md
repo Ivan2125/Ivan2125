@@ -10,10 +10,10 @@
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan2125&theme=nightowl" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivan2125&theme=nightowl" height="187.5"/>
   <div>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivan2125&theme=nightowl" height="153" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ivan2125&theme=nightowl" height="153" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivan2125&theme=nightowl&hide_border=true" height="153" />
   </div>
 
 <div align="left">
