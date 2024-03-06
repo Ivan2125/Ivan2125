@@ -22,7 +22,7 @@
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Proyecto-Integrador-M5&theme=nightowl)](https://github.com/Ivan2125/Proyecto-Integrador-M5)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=data-engineering-zoomcamp&theme=nightowl)](https://github.com/Ivan2125/data-engineering-zoomcamp)|
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Proyecto-Integrador-M5&theme=nightowl)](https://github.com/Ivan2125/Proyecto-Integrador-M5)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=MLOps-Steam&theme=nightowl)](https://github.com/Ivan2125/MLOps-Steam)|
 |[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Retos-python-rust-by-Mouredev&theme=nightowl)](https://github.com/Ivan2125/Retos-python-rust-by-Mouredev)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=A-Z-machine-learning-primeros-pasos&theme=nightowl)](https://github.com/Ivan2125/A-Z-machine-learning-primeros-pasos)|
 </div>
 
