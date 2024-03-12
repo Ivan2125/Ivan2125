@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 👋 ¡Hola! Soy Iván Parra </h2>
+  <h2> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> ¡Hola! Soy Iván Parra 🚀</h2>
 </div>
 <h3> 👨🏻‍💻 &nbsp;Acerca de  mí </h3>
 
