@@ -23,7 +23,7 @@
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Data-Analytics-Siniestros-Viales&theme=nightowl)](https://github.com/Ivan2125/Data-Analytics-Siniestros-Viales)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=MLOps-Steam&theme=nightowl)](https://github.com/Ivan2125/MLOps-Steam)|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Retos-python-rust-by-Mouredev&theme=nightowl)](https://github.com/Ivan2125/Retos-python-rust-by-Mouredev)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=A-Z-machine-learning-primeros-pasos&theme=nightowl)](https://github.com/Ivan2125/A-Z-machine-learning-primeros-pasos)|
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Retos-python-rust-by-Mouredev&theme=nightowl)](https://[github.com/Ivan2125/Retos-python-rust-by-Mouredev](https://github.com/Ivan2125/Proyecto-Google-Yelp))|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ivan2125&repo=Proyecto-Google-Yelp&theme=nightowl)](https://github.com/Ivan2125/A-Z-machine-learning-primeros-pasos)|
 </div>
 
 <h3> 🛠 &nbsp;Habilidades técnicas</h3>
