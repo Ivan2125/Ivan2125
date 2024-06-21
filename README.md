@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;Acerca de  mí </h3>
 
 - ❤️ &nbsp; Me apasiona la tecnología y el mundo de los datos.
-- 🎓 &nbsp; Ingeniero Civil de profesión, actualmente me encuentro estudiando Ingeniería y Ciencia de datos .
-- 💼 &nbsp; Abierto a oportunidades laborales y proyectos colaborativos relacionados con datos.
+- 🎓 &nbsp; Ingeniero Civil y Científico de datos, amante de la Ingeniería de datos.
+- 💼 &nbsp; Científico de datos en Servinformación.
 - 🌱 &nbsp; Me encuentro en continua formación y aprendiendo nuevas tecnologías.
 
 
